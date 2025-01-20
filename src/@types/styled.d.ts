@@ -5,4 +5,4 @@ declare module 'styles-components/native' {
     type ThemeType = typeof theme
 
     export interface DefaultTheme extends ThemeType { }
-}
+};
