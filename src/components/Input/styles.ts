@@ -1,5 +1,5 @@
-import { TextInput } from 'react-native';
 import theme from '@/theme';
+import { TextInput } from 'react-native';
 import styled from 'styled-components/native';
 
 export const Container = styled(TextInput)`
